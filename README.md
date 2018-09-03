@@ -1,6 +1,6 @@
 # PHYS220/MATH220/CPSC220 CW 1
 
-**Author(s):** **CHANGEME**
+**Author(s):** **Trevor Kling, **
 
 ## Specification
 
@@ -12,7 +12,7 @@ Complete the following exercises, saving your solutions in the indicated files.
 
 ## Assessment
 
-Analyze in this section what you found useful about this assignment in your own words. Include any lingering questions or comments that you may have. You can use the GitHub web interface to edit this file directly for now.
+For this assignment, I found the file creation exercise to be particularly useful.  Practice in creating a large number of files can be useful when attempting to create sample data sets later, or when needing to simulate the input to a program which uses several files as inputs.  My main lingering question is if multiple output programs like this one could be used in tandem with piping to allow modular simulation, where a program with multiple inputs could be fed several files at once with the specifications of each file being controlled by the file  generator program.
 
 **CHANGEME**
 
@@ -25,4 +25,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-**YOURNAMES**
+**Trevor Kling, **
