@@ -20,3 +20,15 @@ echo
 exit 0
 
 
+## INSTRUCTOR COMMENT:
+# Alternatively
+#
+# mkdir -p tmpfiles
+# cd tmpfiles
+# for i in $(seq -w 100); do
+#     echo "Temporary File $i" >> $fileName$i.tmp
+# done
+# cd -
+
+# Also, yes pipes can be chained to multiplex complex computations. Hence the exit codes.
+
